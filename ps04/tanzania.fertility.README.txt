@@ -1,0 +1,21 @@
+Variable Description for "tanzania.fertility.dta"
+
+cluster  - Cluster number (location of household)
+city     - ==1 of in large or small city
+goodsan  - ==1 if h/hold has a flush toilet
+goodwat  - ==1 if h/hold has drinking water from tap or pipe
+radio    - ==1 if h/hold has radio
+tv       - ==1 if h/hold has a tv
+sumasset - number of assets in h/hold
+lisradio - listens to radio > once per week
+gradef   - highest formal schooling
+pregnant - ==1 if currently pregnant
+curuse   - ==1 if currently using contraception
+curmeth  - ==1 if modern, ==2 if traditional, ==3 if none
+fpmess   - ==1 if heard family planning messaging in last 6 months
+partner  - ==1 if currently living with a man
+idealnum - ideal number of children
+gradep   - partner's highest formal schooling
+agef     - age of the woman
+hofp5    - ==1 if hospital with family planning clinic within 5 km
+hcfp5    - ==1 if health care facility with family planning clinic within 5 km
